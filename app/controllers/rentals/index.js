@@ -1,3 +1,3 @@
-import RentalsController from '../super_rentals_service/app/controllers/rentals_controller';
+import RentalsController from '../rentals';
 
 export default RentalsController;
